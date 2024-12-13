@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC vesion="1.0">
+<qresource>
+    <file>images/analyse.png</file>
+    <file>images/data.png</file>
+    <file>images/filter.png</file>
+    <file>images/pairing.png</file>
+    <file>images/resampliing.png</file>
+    <file>images/safe.png</file>
+    <file>images/system.png</file>
+    <file>images/song.png</file>
+</qresource>
+</RCC>
